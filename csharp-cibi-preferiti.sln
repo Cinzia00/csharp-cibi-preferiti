@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-cibi-preferiti", "csharp-cibi-preferiti\csharp-cibi-preferiti.csproj", "{AA84F935-FC95-46AA-AE78-8427BFE02F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA84F935-FC95-46AA-AE78-8427BFE02F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA84F935-FC95-46AA-AE78-8427BFE02F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA84F935-FC95-46AA-AE78-8427BFE02F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA84F935-FC95-46AA-AE78-8427BFE02F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31AF3AC-71F4-44D1-A362-FF2426B065A1}
+	EndGlobalSection
+EndGlobal
